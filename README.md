@@ -91,7 +91,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Authors
 
 - Muhammad Ibrahim Kiani
-- Muhammad Abdullah Ali
+- ApatheticMioz
 - Muhammad Abdullah Aamir
 
 FAST NUCES, Islamabad
